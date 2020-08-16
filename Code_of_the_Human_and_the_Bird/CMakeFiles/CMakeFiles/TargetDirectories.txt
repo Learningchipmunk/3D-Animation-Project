@@ -1,0 +1,3 @@
+/home/jc/Documents/INF443/The_Human_and_the_Bird/Code_of_the_Human_and_the_Bird/CMakeFiles/CMakeFiles/rebuild_cache.dir
+/home/jc/Documents/INF443/The_Human_and_the_Bird/Code_of_the_Human_and_the_Bird/CMakeFiles/CMakeFiles/pgm.dir
+/home/jc/Documents/INF443/The_Human_and_the_Bird/Code_of_the_Human_and_the_Bird/CMakeFiles/CMakeFiles/edit_cache.dir
