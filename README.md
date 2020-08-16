@@ -8,6 +8,11 @@ Vous trouverez dans ce fichier des instructions sur comment compiler le projet e
 
 > Pour ceux qui sont familiers avec le fonctionnement de la bibliothèque VCL, certaines explications paraitront triviales puisque ce projet se base uniquement sur cette bibliothèque et adhère à son fonctionnement.
 
+
+|                 Side Preview                  |                 Front Preview                  |
+| :-------------------------------------------: | :--------------------------------------------: |
+| ![First Preview](README_Images/Git_Prev1.png) | ![Second Preview](README_Images/Git_Prev2.png) |
+
  ## Prérequis :
 
 * Linux/Ubuntu/MaxOs
